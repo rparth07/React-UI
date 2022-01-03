@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\nouislider",
+    "\\node_modules\\nouislider\\dist",
+    "\\src",
+    "\\src\\components\\partials\\dashboard",
+    "\\src\\layouts",
+    "\\src\\layouts\\dashboard",
+    "\\src\\router",
+    "\\src\\views",
+    "\\src\\views\\dashboard"
+  ],
+  "SelectedNode": "\\src\\layouts\\dashboard\\simple.js",
+  "PreviewInSolutionExplorer": false
+}
