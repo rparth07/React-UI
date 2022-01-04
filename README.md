@@ -1,10 +1,10 @@
 <p align="center">
   <h2>
-    Hope UI
-    <img src="https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react" />
+     Hope UI
   </h2>
 </p>
 
+```
 src
 ├── assets
 │ ├── images
